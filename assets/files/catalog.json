@@ -1,0 +1,53 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Groza",
+        "desc": "Description for Groza",
+        "price": 100.0,
+        "color": "0xFF000000",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.GnGF2HVK6cJbeCba3ppF5AHaE7&pid=Api&P=0&h=220"
+      },
+      {
+        "id": 2,
+        "name": "Suft-Gun",
+        "desc": "Description for Suft-Gun",
+        "price": 200.0,
+        "color": "0xFF00FF00",
+        "image": "https://wallpapercave.com/wp/wp2531990.jpg"
+      },
+      {
+        "id": 3,
+        "name": "M25",
+        "desc": "Description for M25",
+        "price": 300.0,
+        "color": "0xFFFF0000",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.h3C9ONQWmECMrpdPfWM_mgHaEo&pid=Api&P=0&h=220"
+      },
+      {
+        "id": 4,
+        "name": "Big-Baster",
+        "desc": "Description for Big-Baster",
+        "price": 400.0,
+        "color": "0xFF0000FF",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.Gl8YYJ211JckyfYCrDU74AHaEK&pid=Api&P=0&h=220"
+      },
+      {
+        "id": 5,
+        "name": "Scar",
+        "desc": "Description for Scar",
+        "price": 500.0,
+        "color": "0xFF8B00FF",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.flLhHR7uUOZvedJJ78wVSAHaJ6&pid=Api&P=0&h=220"
+      },
+      {
+        "id": 6,
+        "name": "Contyaz",
+        "desc": "Description for Contyaz",
+        "price": 600.0,
+        "color": "0xFFFFFF00",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.zGeq2G0pmtCAwkoQO1971wHaEz&pid=Api&P=0&h=220"
+      }
+    ]
+  }
+  

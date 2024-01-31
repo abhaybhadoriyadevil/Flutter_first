@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962466302141",
+    "project_id": "g-sells-135ae",
+    "storage_bucket": "g-sells-135ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962466302141:android:6a673cb1c8d349147c4fd4",
+        "android_client_info": {
+          "package_name": "com.example.second"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs3YpS3onxxHnh3X5A5jBC_rko2k6FqvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
